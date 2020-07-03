@@ -31,7 +31,7 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 | Title                                                                                                                            | Venue | Type    | Code | Cite |
 |:-------------------------------------------------------------------------------------------------------------------------------- |:-----:|:-------:|:----:|------|
 | [HRank: Filter Pruning using High-Rank Feature Map](https://arxiv.org/abs/2002.10179) | CVPR | `F`     | [Pytorch(Author)](https://github.com/lmbxmu/HRank)   | 8  |
-| [Neural Network Pruning with Residual-Connections and Limited-Data](https://arxiv.org/abs/1911.08114) | CVPR | `F`     | -  |   |
+| [Neural Network Pruning with Residual-Connections and Limited-Data](https://arxiv.org/abs/1911.08114) | CVPR | `F`     | [Pytorch(Author)](https://github.com/Roll920/CURL) |   |
 | [DMCP: Differentiable Markov Channel Pruning for Neural Networks](https://arxiv.org/abs/2005.03354) | CVPR | `F`     | [TensorFlow(Author)](https://github.com/zx55/dmcp)   |    |
 | [Group Sparsity: The Hinge Between Filter Pruning and Decomposition for Network Compression](https://arxiv.org/abs/2003.08935) | CVPR | `F`     | [PyTorch(Author)](https://github.com/ofsoundof/group_sparsity)   | 0  |
 | [Comparing Rewinding and Fine-tuning in Neural Network Pruning](https://arxiv.org/abs/2003.02389) | ICLR **(Oral)** | `WF`     | [TensorFlow(Author)](https://github.com/lottery-ticket/code)   |    |
