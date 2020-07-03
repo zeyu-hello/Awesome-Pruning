@@ -28,12 +28,19 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 
 ### 2020
 
-| Title                                                                                                                            | Venue | Type    | Code | Cite |
-|:-------------------------------------------------------------------------------------------------------------------------------- |:-----:|:-------:|:----:|------|
-| [HRank: Filter Pruning using High-Rank Feature Map](https://arxiv.org/abs/2002.10179) | CVPR | `F`     | [Pytorch(Author)](https://github.com/lmbxmu/HRank)   | 8  |
+| Title | Venue | Type | Code | Cite |
+| :------- | :--------: | :-------: | :-------: | --------- |
+| [Channel Pruning via Automatic Structure Search](https://arxiv.org/abs/2001.08565) | IJCAI | `W`     | [PyTorch(Author)](https://github.com/lmbxmu/ABCPruner)   | 1 |
+| [Adversarial Neural Pruning with Latent Vulnerability Suppression](https://arxiv.org/abs/1908.04355) | ICML | `W`     | -   | 2 |
+| [Proving the Lottery Ticket Hypothesis: Pruning is All You Need](https://arxiv.org/abs/2002.00585) | ICML | `W`     | -   | 3 |
+| [Network Pruning by Greedy Subnetwork Selection](https://arxiv.org/abs/2003.01794) | ICML | `F`     | -   | 1 |
+| Operation-Aware Soft Channel Pruning using Differentiable Masks | ICML | `F`     | -   |    |
+| DropNet: Reducing Neural Network Complexity via Iterative Pruning | ICML | `F`     | -   |    |
+| [Towards Efficient Model Compression via Learned Global Ranking](https://arxiv.org/abs/1904.12368) | CVPR  **(Oral)**| `F`     | [Pytorch(Author)](https://github.com/cmu-enyac/LeGR)   | 5 |
+| [HRank: Filter Pruning using High-Rank Feature Map](https://arxiv.org/abs/2002.10179) | CVPR | `F`     | [Pytorch(Author)](https://github.com/lmbxmu/HRank)   | 1  |
 | [Neural Network Pruning with Residual-Connections and Limited-Data](https://arxiv.org/abs/1911.08114) | CVPR | `F`     | [Pytorch(Author)](https://github.com/Roll920/CURL) |   |
 | [DMCP: Differentiable Markov Channel Pruning for Neural Networks](https://arxiv.org/abs/2005.03354) | CVPR | `F`     | [TensorFlow(Author)](https://github.com/zx55/dmcp)   |    |
-| [Group Sparsity: The Hinge Between Filter Pruning and Decomposition for Network Compression](https://arxiv.org/abs/2003.08935) | CVPR | `F`     | [PyTorch(Author)](https://github.com/ofsoundof/group_sparsity)   | 0  |
+| [Group Sparsity: The Hinge Between Filter Pruning and Decomposition for Network Compression](https://arxiv.org/abs/2003.08935) | CVPR | `F`     | [PyTorch(Author)](https://github.com/ofsoundof/group_sparsity)   | 2 |
 | [Comparing Rewinding and Fine-tuning in Neural Network Pruning](https://arxiv.org/abs/2003.02389) | ICLR **(Oral)** | `WF`     | [TensorFlow(Author)](https://github.com/lottery-ticket/code)   |    |
 | [A Signal Propagation Perspective for Pruning Neural Networks at Initialization](https://arxiv.org/abs/1906.06307) | ICLR **(Spotlight)** | `W`     | -  |   |
 | [One-Shot Pruning of Recurrent Neural Networks by Jacobian Spectrum Evaluation](https://arxiv.org/abs/1912.00120) | ICLR   | `W`     | -  |   |
@@ -77,7 +84,6 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 | [Collaborative Channel Pruning for Deep Networks](http://proceedings.mlr.press/v97/peng19c.html)                                                                                                                 | ICML            | `F`     | -                                                                                     |                                                                                      |
 | [Approximated Oracle Filter Pruning for Destructive CNN Width Optimization github](https://arxiv.org/abs/1905.04748)                                                                                             | ICML            | `F`     | -                                                                                     |                                                                                      |
 | [EigenDamage: Structured Pruning in the Kronecker-Factored Eigenbasis4](https://arxiv.org/abs/1905.05934)                                                                                                        | ICML            | `W`     | [PyTorch(Author)](https://github.com/alecwangcq/EigenDamage-Pytorch)                  | 4                 |
-
 ### 2018
 
 | Title    | Venue       | Type    | Code     | Cite |
